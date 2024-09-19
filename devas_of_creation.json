@@ -1,0 +1,83 @@
+{
+    "races": {
+        "umbralith": {
+            "name": "Umbralith",
+            "attributes": {
+                "STR": 5,
+                "DEX": 10,
+                "INT": 3,
+                "WIS": 3,
+                "CONS": 4
+            }
+        },
+        "cyruleas": {
+            "name": "Cyruleas",
+            "attributes": {
+                "STR": 10,
+                "DEX": 2,
+                "INT": 2,
+                "WIS": 3,
+                "CONS": 8
+            }
+        },
+        "viridis": {
+            "name": "Viridis",
+            "attributes": {
+                "STR": 5,
+                "DEX": 5,
+                "INT": 5,
+                "WIS": 5,
+                "CONS": 5
+            }
+        },
+        "illythrial": {
+            "name": "Illythrial",
+            "attributes": {
+                "STR": 4,
+                "DEX": 2,
+                "INT": 9,
+                "WIS": 6,
+                "CONS": 4
+            }
+        }
+    },
+    "forge": {
+        "armor": {
+            "light": {
+                
+            },
+            "robe": {
+                
+            },
+            "heavy": {
+                
+            }
+        },
+        "weapon": {
+            "celestial_staff": {
+                
+            },
+            "dagger": {
+                
+            },
+            "bow": {
+                
+            },
+            "ice_staff": {
+                
+            },
+            "fire_staff": {
+                
+            },
+            "great_sword": {
+                
+            }
+        },
+        "tool":{"rod":{"T1_ROD":{"crafting_level":1,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":2},{"id":"ROCK","amount":2},{"id":"BASIC_SIGIL","amount":10}]},"T2_ROD":{"crafting_level":1,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":4},{"id":"ROCK","amount":4},{"id":"MAPLE_WOOD","amount":2},{"id":"MOON_STONE","amount":2},{"id":"UNUSUAL_SIGIL","amount":10}]},"T3_ROD":{"crafting_level":3,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":53},{"id":"ROCK","amount":53},{"id":"MAPLE_WOOD","amount":28},{"id":"MOON_STONE","amount":28},{"id":"PALM_WOOD","amount":7},{"id":"EMERALDITE","amount":7},{"id":"ENIGMATIC_SIGIL","amount":10}]},"T4_ROD":{"crafting_level":6,"success_rate":0.8,"min_perk":1,"max_perk":2,"craft":[{"id":"OAK_WOOD","amount":105},{"id":"ROCK","amount":105},{"id":"MAPLE_WOOD","amount":53},{"id":"MOON_STONE","amount":53},{"id":"PALM_WOOD","amount":42},{"id":"EMERALDITE","amount":42},{"id":"CELESTIAL_ESSENCE","amount":21},{"id":"AMBERITE","amount":21},{"id":"MYSTIC_SIGIL","amount":10}]},"T5_ROD":{"crafting_level":10,"success_rate":0.75,"min_perk":1,"max_perk":2,"craft":[{"id":"OAK_WOOD","amount":219},{"id":"ROCK","amount":219},{"id":"MAPLE_WOOD","amount":140},{"id":"MOON_STONE","amount":140},{"id":"PALM_WOOD","amount":79},{"id":"EMERALDITE","amount":79},{"id":"CELESTIAL_ESSENCE","amount":53},{"id":"AMBERITE","amount":53},{"id":"PHOENIXHEART_TIMBERWOOD","amount":27},{"id":"AMETHYSTIUM","amount":27},{"id":"CELESTIAL_SIGIL","amount":10}]}},"sickle":{"T1_SICKLE":{"crafting_level":1,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":2},{"id":"ROCK","amount":2},{"id":"BASIC_SIGIL","amount":10}]},"T2_SICKLE":{"crafting_level":1,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":4},{"id":"ROCK","amount":4},{"id":"MAPLE_WOOD","amount":2},{"id":"MOON_STONE","amount":2},{"id":"UNUSUAL_SIGIL","amount":10}]},"T3_SICKLE":{"crafting_level":3,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":53},{"id":"ROCK","amount":53},{"id":"MAPLE_WOOD","amount":28},{"id":"MOON_STONE","amount":28},{"id":"PALM_WOOD","amount":7},{"id":"EMERALDITE","amount":7},{"id":"ENIGMATIC_SIGIL","amount":10}]},"T4_SICKLE":{"crafting_level":6,"success_rate":0.8,"min_perk":1,"max_perk":2,"craft":[{"id":"OAK_WOOD","amount":105},{"id":"ROCK","amount":105},{"id":"MAPLE_WOOD","amount":53},{"id":"MOON_STONE","amount":53},{"id":"PALM_WOOD","amount":42},{"id":"EMERALDITE","amount":42},{"id":"CELESTIAL_ESSENCE","amount":21},{"id":"AMBERITE","amount":21},{"id":"MYSTIC_SIGIL","amount":10}]},"T5_SICKLE":{"crafting_level":10,"success_rate":0.75,"min_perk":1,"max_perk":2,"craft":[{"id":"OAK_WOOD","amount":219},{"id":"ROCK","amount":219},{"id":"MAPLE_WOOD","amount":140},{"id":"MOON_STONE","amount":140},{"id":"PALM_WOOD","amount":79},{"id":"EMERALDITE","amount":79},{"id":"CELESTIAL_ESSENCE","amount":53},{"id":"AMBERITE","amount":53},{"id":"PHOENIXHEART_TIMBERWOOD","amount":27},{"id":"AMETHYSTIUM","amount":27},{"id":"CELESTIAL_SIGIL","amount":10}]}},"pickaxe":{"T1_PICKAXE":{"crafting_level":1,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":2},{"id":"ROCK","amount":2},{"id":"BASIC_SIGIL","amount":10}]},"T2_PICKAXE":{"crafting_level":1,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":4},{"id":"ROCK","amount":4},{"id":"MAPLE_WOOD","amount":2},{"id":"MOON_STONE","amount":2},{"id":"UNUSUAL_SIGIL","amount":10}]},"T3_PICKAXE":{"crafting_level":3,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":53},{"id":"ROCK","amount":53},{"id":"MAPLE_WOOD","amount":28},{"id":"MOON_STONE","amount":28},{"id":"PALM_WOOD","amount":7},{"id":"EMERALDITE","amount":7},{"id":"ENIGMATIC_SIGIL","amount":10}]},"T4_PICKAXE":{"crafting_level":6,"success_rate":0.8,"min_perk":1,"max_perk":2,"craft":[{"id":"OAK_WOOD","amount":105},{"id":"ROCK","amount":105},{"id":"MAPLE_WOOD","amount":53},{"id":"MOON_STONE","amount":53},{"id":"PALM_WOOD","amount":42},{"id":"EMERALDITE","amount":42},{"id":"CELESTIAL_ESSENCE","amount":21},{"id":"AMBERITE","amount":21},{"id":"MYSTIC_SIGIL","amount":10}]},"T5_PICKAXE":{"crafting_level":10,"success_rate":0.75,"min_perk":1,"max_perk":2,"craft":[{"id":"OAK_WOOD","amount":219},{"id":"ROCK","amount":219},{"id":"MAPLE_WOOD","amount":140},{"id":"MOON_STONE","amount":140},{"id":"PALM_WOOD","amount":79},{"id":"EMERALDITE","amount":79},{"id":"CELESTIAL_ESSENCE","amount":53},{"id":"AMBERITE","amount":53},{"id":"PHOENIXHEART_TIMBERWOOD","amount":27},{"id":"AMETHYSTIUM","amount":27},{"id":"CELESTIAL_SIGIL","amount":10}]}},"axe":{"T1_AXE":{"crafting_level":1,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":2},{"id":"ROCK","amount":2},{"id":"BASIC_SIGIL","amount":10}]},"T2_AXE":{"crafting_level":1,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":4},{"id":"ROCK","amount":4},{"id":"MAPLE_WOOD","amount":2},{"id":"MOON_STONE","amount":2},{"id":"UNUSUAL_SIGIL","amount":10}]},"T3_AXE":{"crafting_level":3,"success_rate":1,"min_perk":1,"max_perk":1,"craft":[{"id":"OAK_WOOD","amount":53},{"id":"ROCK","amount":53},{"id":"MAPLE_WOOD","amount":28},{"id":"MOON_STONE","amount":28},{"id":"PALM_WOOD","amount":7},{"id":"EMERALDITE","amount":7},{"id":"ENIGMATIC_SIGIL","amount":10}]},"T4_AXE":{"crafting_level":6,"success_rate":0.8,"min_perk":1,"max_perk":2,"craft":[{"id":"OAK_WOOD","amount":105},{"id":"ROCK","amount":105},{"id":"MAPLE_WOOD","amount":53},{"id":"MOON_STONE","amount":53},{"id":"PALM_WOOD","amount":42},{"id":"EMERALDITE","amount":42},{"id":"CELESTIAL_ESSENCE","amount":21},{"id":"AMBERITE","amount":21},{"id":"MYSTIC_SIGIL","amount":10}]},"T5_AXE":{"crafting_level":10,"success_rate":0.75,"min_perk":1,"max_perk":2,"craft":[{"id":"OAK_WOOD","amount":219},{"id":"ROCK","amount":219},{"id":"MAPLE_WOOD","amount":140},{"id":"MOON_STONE","amount":140},{"id":"PALM_WOOD","amount":79},{"id":"EMERALDITE","amount":79},{"id":"CELESTIAL_ESSENCE","amount":53},{"id":"AMBERITE","amount":53},{"id":"PHOENIXHEART_TIMBERWOOD","amount":27},{"id":"AMETHYSTIUM","amount":27},{"id":"CELESTIAL_SIGIL","amount":10}]}}}},
+    "items": [
+        {"id":"T1_ROD","name":"Apprentice Angler","description":"A Fishing Rod. Used to gather fish from fishing spots.","type":"rod","rarity":"common","use_level":1,"stats":{"speed":8},"obtained_from":["quest","tool_store","craft"],"sell_price":60},{"id":"T2_ROD","name":"Journeyman Fisher","description":"A Fishing Rod. Used to gather fish from fishing spots.","type":"rod","rarity":"uncommon","use_level":1,"stats":{"speed":10},"obtained_from":["tool_store","craft"],"sell_price":150},{"id":"T3_ROD","name":"Expert Reeler","description":"A Fishing Rod. Used to gather fish from fishing spots.","type":"rod","rarity":"rare","use_level":30,"stats":{"speed":12},"obtained_from":["craft"],"sell_price":300},{"id":"T4_ROD","name":"Master Tidalcaster","description":"A Fishing Rod. Used to gather fish from fishing spots.","type":"rod","rarity":"epic","use_level":40,"stats":{"speed":14},"obtained_from":["craft"],"sell_price":600},{"id":"T5_ROD","name":"Grandmaster Watersworn","description":"A Fishing Rod. Used to gather fish from fishing spots.","type":"rod","rarity":"legendary","use_level":50,"stats":{"speed":16},"obtained_from":["craft"],"sell_price":1500},
+        {"id":"T1_SICKLE","name":"Apprentice Harvester","description":"A harvesting sickle. Used to gather most of the plants.","type":"sickle","rarity":"common","use_level":1,"stats":{"speed":1},"obtained_from":["quest","tool_store","craft"],"sell_price":60},{"id":"T2_SICKLE","name":"Journeyman Reaper","description":"A harvesting sickle. Used to gather most of the plants.","type":"sickle","rarity":"uncommon","use_level":1,"stats":{"speed":2},"obtained_from":["tool_store","craft"],"sell_price":150},{"id":"T3_SICKLE","name":"Expert Scyther","description":"A harvesting sickle. Used to gather most of the plants.","type":"sickle","rarity":"rare","use_level":30,"stats":{"speed":3},"obtained_from":["craft"],"sell_price":300},{"id":"T4_SICKLE","name":"Master Cropmender","description":"A harvesting sickle. Used to gather most of the plants.","type":"sickle","rarity":"epic","use_level":40,"stats":{"speed":4},"obtained_from":["craft"],"sell_price":600},{"id":"T5_SICKLE","name":"Grandmaster Harvestmoon","description":"A harvesting sickle. Used to gather most of the plants.","type":"sickle","rarity":"legendary","use_level":50,"stats":{"speed":5},"obtained_from":["craft"],"sell_price":1500},
+        {"id":"T1_PICKAXE","name":"Apprentice Digger","description":"A Mining Pick. Used to gather boulders and ores.","type":"pickaxe","rarity":"common","use_level":1,"stats":{"speed":1},"obtained_from":["quest","tool_store","craft"],"sell_price":60},{"id":"T2_PICKAXE","name":"Journeyman Excavatir","description":"A Mining Pick. Used to gather boulders and ores.","type":"pickaxe","rarity":"uncommon","use_level":1,"stats":{"speed":2},"obtained_from":["tool_store","craft"],"sell_price":150},{"id":"T3_PICKAXE","name":"Expert Delver","description":"A Mining Pick. Used to gather boulders and ores.","type":"pickaxe","rarity":"rare","use_level":30,"stats":{"speed":3},"obtained_from":["craft"],"sell_price":300},{"id":"T4_PICKAXE","name":"Master Prospector","description":"A Mining Pick. Used to gather boulders and ores.","type":"pickaxe","rarity":"epic","use_level":40,"stats":{"speed":4},"obtained_from":["craft"],"sell_price":600},{"id":"T5_PICKAXE","name":"Grandmaster Earthshaker","description":"A Mining Pick. Used to gather boulders and ores.","type":"pickaxe","rarity":"legendary","use_level":50,"stats":{"speed":5},"obtained_from":["craft"],"sell_price":1500},
+        {"id":"T1_AXE","name":"Apprentice Hewer","description":"A Logging Axe. Used to gather trees.","type":"axe","rarity":"common","use_level":1,"stats":{"speed":1},"obtained_from":["quest","tool_store","craft"],"sell_price":60},{"id":"T2_AXE","name":"Journeyman Chopper","description":"A Logging Axe. Used to gather trees.","type":"axe","rarity":"uncommon","use_level":1,"stats":{"speed":2},"obtained_from":["tool_store","craft"],"sell_price":150},{"id":"T3_AXE","name":"Expert Cleaver","description":"A Logging Axe. Used to gather trees.","type":"axe","rarity":"rare","use_level":30,"stats":{"speed":3},"obtained_from":["craft"],"sell_price":300},{"id":"T4_AXE","name":"Master Timberbane","description":"A Logging Axe. Used to gather trees.","type":"axe","rarity":"epic","use_level":40,"stats":{"speed":4},"obtained_from":["craft"],"sell_price":600},{"id":"T5_AXE","name":"Grandmaster Warblade","description":"A Logging Axe. Used to gather trees.","type":"axe","rarity":"legendary","use_level":50,"stats":{"speed":5},"obtained_from":["craft"],"sell_price":1500}
+    ]
+}
