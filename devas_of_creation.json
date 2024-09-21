@@ -786,7 +786,7 @@
             }
         }
     },
-    "items": [
+    "item": [
         {
             "id": "T1_ROD",
             "name": "Apprentice Angler",

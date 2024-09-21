@@ -1,5 +1,5 @@
 # ⚔️ Devas Of Creation Data
-[![GitHub contributors](https://img.shields.io/github/contributors/neyrowz/devas-of-creation?style=for-the-badge&color=ff7000&link=github.com/NeyrowZ/devas-of-creation/contributors)](https://github.com/NeyrowZ/devas-of-creation/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/neyrowz/devas-of-creation-data?style=for-the-badge&color=ff7000&link=github.com/NeyrowZ/devas-of-creation-data/contributors)](https://github.com/NeyrowZ/devas-of-creation/contributors)
 
 
 This project is most of the data from the roblox game [Devas Of Creation](https://www.roblox.com/games/11233948433/RELEASE-Devas-Of-Creation) in json format. The aim of this project is to encourage developers to publish tools for players without going through the tedious process of collecting information in the game. 
