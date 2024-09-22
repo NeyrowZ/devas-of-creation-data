@@ -6,14 +6,15 @@ This project is most of the data from the roblox game [Devas Of Creation](https:
 
 ```
 devas_of_creation.json
-├── Race [4/4] ✔️
+├── Races [4/4] ✔️
+├── Traits [6/6] ✔️
 ├── Crafting 
-│   ├── Armor [0/83] 🛠️
-│   ├── Weapon [0/49] 🛠️
-│   ├── Tool [20/20] ✔️
-│   └── Consumable [0/25] 🛠️
+│   ├── Armors [0/83] 🛠️
+│   ├── Weapons [0/49] 🛠️
+│   ├── Tools [20/20] ✔️
+│   └── Consumables [0/25] 🛠️
 ├── Items [20/???] 🛠️
-└── Monster [0/58] 🛠️
+└── Mobs [0/58] 🛠️
 ```
 
 > [!NOTE]

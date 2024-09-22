@@ -1,5 +1,5 @@
 {
-    "race": {
+    "races": {
         "umbralith": {
             "name": "Umbralith",
             "attributes": {
@@ -41,13 +41,68 @@
             }
         }
     },
-    "forge": {
-        "armor": {
+    "traits": {
+        "vitality_fusion": {
+            "name": "Vitality Fusion",
+            "rarity": 0.35,
+            "buffs": {
+                "max_mana": 50,
+                "max_hp": 200
+            }
+        },
+        "defensive_resilience": {
+            "name": "Defensive Resilience",
+            "rarity": 0.35,
+            "buffs": {
+                "armor": 0.1,
+                "magic_resistance": 0.1
+            }
+        },
+        "endurance": {
+            "name": "Endurance",
+            "rarity": 0.13,
+            "buffs": {
+                "magic_power": 0.07,
+                "max_block_stamina": 20,
+                "physical_power": 0.07
+            }
+        },
+        "critical_mastery": {
+            "name": "Critical Mastery",
+            "rarity": 0.13,
+            "buffs": {
+                "critical_hit_chance": 0.12,
+                "critical_hit_power": 0.2
+            }
+        },
+        "mystical_strength": {
+            "name": "Mystical Strength",
+            "rarity": 0.039,
+            "buffs": {
+                "critical_hit_power": 0.2,
+                "magic_power": 0.12,
+                "physical_power": 0.12
+            }
+        },
+        "mighty_arcane_aura": {
+            "name": "Mighty Arcane Aura",
+            "rarity": 0.001,
+            "buffs": {
+                "walk_speed": 1,
+                "critical_hit_chance": 0.12,
+                "magic_power": 0.15,
+                "max_block_stamina": 20,
+                "physical_power": 0.15
+            }
+        }
+    },
+    "crafting": {
+        "armors": {
             "light": {},
             "robe": {},
             "heavy": {}
         },
-        "weapon": {
+        "weapons": {
             "celestial_staff": {},
             "dagger": {},
             "bow": {},
@@ -55,7 +110,7 @@
             "fire_staff": {},
             "great_sword": {}
         },
-        "tool": {
+        "tools": {
             "rod": {
                 "T1_ROD": {
                     "crafting_level": 1,
@@ -784,6 +839,10 @@
                     ]
                 }
             }
+        },
+        "consumables": {
+            "potion": {},
+            "food": {}
         }
     },
     "items": [
@@ -1100,5 +1159,5 @@
             "sell_price": 1500
         }
     ],
-    "monster": []
+    "mobs": []
 }
