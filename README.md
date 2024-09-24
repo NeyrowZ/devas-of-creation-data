@@ -8,6 +8,7 @@ This project is most of the data from the roblox game [Devas Of Creation](https:
 devas_of_creation.json
 ├── Races [4/4] ✔️
 ├── Traits [6/6] ✔️
+├── Attributes [5/5] ✔️
 ├── Crafting 
 │   ├── Armors [0/83] 🛠️
 │   ├── Weapons [0/49] 🛠️

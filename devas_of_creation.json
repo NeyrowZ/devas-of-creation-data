@@ -96,6 +96,58 @@
             }
         }
     },
+    "attribute": {
+        "STR": {
+            "physical_power": {
+                "increase": 25,
+                "base": 35
+            }
+        },
+        "DEX": {
+            "critical_chance": {
+                "increase": 0.02,
+                "base": 0.03
+            },
+            "critical_power": {
+                "increase": 0.03,
+                "base": 1.56
+            },
+            "speed": {
+                "increase": 0.03,
+                "base": 17.91
+            },
+            "climb_speed": {
+                "increase": 0.2,
+                "base": 9.4
+            }
+        },
+        "INT": {
+            "magic_power": {
+                "increase": 17,
+                "base": 39
+            }
+        },
+        "WIS": {
+            "mana": {
+                "increase": 7,
+                "base": 184
+            },
+            "mana_regeneration": {
+                "increase": 0.2,
+                "base": 1.2
+            }
+        },
+        "CON": {
+            "health": {
+                "increase": 120,
+                "base": 340
+            },
+            "climb_stamina": {
+                "increase": 0.1,
+                "base": 5
+            }
+        }
+    },
     "crafting": {
         "armors": {
             "light": {},
