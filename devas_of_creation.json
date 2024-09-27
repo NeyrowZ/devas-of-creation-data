@@ -897,6 +897,360 @@
             "food": {}
         }
     },
+    "craft_perks": {
+        "harvest_multiplier": {
+            "perk_rate": {
+                "tool": 0.6
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.4,
+                    "bonus": 0.1
+                },
+                "uncommon": {
+                    "rate": 0.3,
+                    "bonus": 0.15
+                },
+                "rare": {
+                    "rate": 0.2,
+                    "bonus": 0.2
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 0.25
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 0.3
+                }
+            }
+        },
+        "drop_multiplier": {
+            "perk_rate": {
+                "tool": 0.2
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.4,
+                    "bonus": 0.03
+                },
+                "uncommon": {
+                    "rate": 0.3,
+                    "bonus": 0.07
+                },
+                "rare": {
+                    "rate": 0.2,
+                    "bonus": 0.12
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 0.16
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 0.2
+                }
+            }
+        },
+        "luck": {
+            "perk_rate": {
+                "armor": 0.143,
+                "tool": 0.2
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.4,
+                    "bonus": 0.03
+                },
+                "uncommon": {
+                    "rate": 0.3,
+                    "bonus": 0.07
+                },
+                "rare": {
+                    "rate": 0.2,
+                    "bonus": 0.12
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 0.16
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 0.2
+                }
+            }
+        },
+        "critical_hit_chance": {
+            "perk_rate": {
+                "weapon": 0.2
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.5,
+                    "bonus": 0.05
+                },
+                "uncommon": {
+                    "rate": 0.25,
+                    "bonus": 0.1
+                },
+                "rare": {
+                    "rate": 0.15,
+                    "bonus": 0.15
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 0.2
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 0.25
+                }
+            }
+        },
+        "critical_hit_power": {
+            "perk_rate": {
+                "weapon": 0.2
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.5,
+                    "bonus": 0.1
+                },
+                "uncommon": {
+                    "rate": 0.25,
+                    "bonus": 0.2
+                },
+                "rare": {
+                    "rate": 0.15,
+                    "bonus": 0.3
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 0.4
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 0.5
+                }
+            }
+        },
+        "magic_power": {
+            "perk_rate": {
+                "weapon": 0.2
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.5,
+                    "bonus": 0.15
+                },
+                "uncommon": {
+                    "rate": 0.25,
+                    "bonus": 0.2
+                },
+                "rare": {
+                    "rate": 0.15,
+                    "bonus": 0.25
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 0.3
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 0.35
+                }
+            }
+        },
+        "physical_power": {
+            "perk_rate": {
+                "weapon": 0.2
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.5,
+                    "bonus": 0.15
+                },
+                "uncommon": {
+                    "rate": 0.25,
+                    "bonus": 0.2
+                },
+                "rare": {
+                    "rate": 0.15,
+                    "bonus": 0.25
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 0.3
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 0.35
+                }
+            }
+        },
+        "max_mana": {
+            "perk_rate": {
+                "armor": 0.143
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.5,
+                    "bonus": 40
+                },
+                "uncommon": {
+                    "rate": 0.25,
+                    "bonus": 60
+                },
+                "rare": {
+                    "rate": 0.15,
+                    "bonus": 80
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 100
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 120
+                }
+            }
+        },
+        "max_hp": {
+            "perk_rate": {
+                "armor": 0.143
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.5,
+                    "bonus": 100
+                },
+                "uncommon": {
+                    "rate": 0.25,
+                    "bonus": 200
+                },
+                "rare": {
+                    "rate": 0.15,
+                    "bonus": 400
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 800
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 1500
+                }
+            }
+        },
+        "hp_regeneration": {
+            "perk_rate": {
+                "armor": 0.143
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.5,
+                    "bonus": 1
+                },
+                "uncommon": {
+                    "rate": 0.25,
+                    "bonus": 2
+                },
+                "rare": {
+                    "rate": 0.15,
+                    "bonus": 4
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 6
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 10
+                }
+            }
+        },
+        "climb_speed": {
+            "perk_rate": {
+                "armor": 0.143
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.5,
+                    "bonus": 2
+                },
+                "uncommon": {
+                    "rate": 0.25,
+                    "bonus": 4
+                },
+                "rare": {
+                    "rate": 0.15,
+                    "bonus": 6
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 8
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 10
+                }
+            }
+        },
+        "max_block_stamina": {
+            "perk_rate": {
+                "armor": 0.143
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.5,
+                    "bonus": 10
+                },
+                "uncommon": {
+                    "rate": 0.25,
+                    "bonus": 20
+                },
+                "rare": {
+                    "rate": 0.15,
+                    "bonus": 30
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 50
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 70
+                }
+            }
+        },
+        "mana_regeneration": {
+            "perk_rate": {
+                "armor": 0.143
+            },
+            "rarity": {
+                "common": {
+                    "rate": 0.5,
+                    "bonus": 1
+                },
+                "uncommon": {
+                    "rate": 0.25,
+                    "bonus": 2
+                },
+                "rare": {
+                    "rate": 0.15,
+                    "bonus": 4
+                },
+                "epic": {
+                    "rate": 0.08,
+                    "bonus": 6
+                },
+                "legendary": {
+                    "rate": 0.02,
+                    "bonus": 10
+                }
+            }
+        }
+    },
     "items": [
         {
             "id": "T1_ROD",
