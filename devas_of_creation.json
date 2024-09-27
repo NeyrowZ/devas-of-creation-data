@@ -900,7 +900,10 @@
     "craft_perks": {
         "harvest_multiplier": {
             "perk_rate": {
-                "tool": 0.6
+                "rod": 0.6,
+                "sickle": 0.6,
+                "pickaxe": 0.6,
+                "axe": 0.6
             },
             "rarity": {
                 "common": {
@@ -927,7 +930,10 @@
         },
         "drop_multiplier": {
             "perk_rate": {
-                "tool": 0.2
+                "rod": 0.2,
+                "sickle": 0.2,
+                "pickaxe": 0.2,
+                "axe": 0.2
             },
             "rarity": {
                 "common": {
@@ -954,8 +960,15 @@
         },
         "luck": {
             "perk_rate": {
-                "armor": 0.143,
-                "tool": 0.2
+                "helmet": 0.143,
+                "body": 0.143,
+                "pants": 0.143,
+                "gloves": 0.143,
+                "boots": 0.143,
+                "rod": 0.2,
+                "sickle": 0.2,
+                "pickaxe": 0.2,
+                "axe": 0.2
             },
             "rarity": {
                 "common": {
@@ -982,7 +995,12 @@
         },
         "critical_hit_chance": {
             "perk_rate": {
-                "weapon": 0.2
+                "celestial_staff": 0.2,
+                "dagger": 0.2,
+                "bow": 0.2,
+                "ice_staff": 0.2,
+                "fire_staff": 0.2,
+                "great_sword": 0.2
             },
             "rarity": {
                 "common": {
@@ -1009,7 +1027,12 @@
         },
         "critical_hit_power": {
             "perk_rate": {
-                "weapon": 0.2
+                "celestial_staff": 0.2,
+                "dagger": 0.2,
+                "bow": 0.2,
+                "ice_staff": 0.2,
+                "fire_staff": 0.2,
+                "great_sword": 0.2
             },
             "rarity": {
                 "common": {
@@ -1036,7 +1059,12 @@
         },
         "magic_power": {
             "perk_rate": {
-                "weapon": 0.2
+                "celestial_staff": 0.2,
+                "dagger": 0.2,
+                "bow": 0.2,
+                "ice_staff": 0.2,
+                "fire_staff": 0.2,
+                "great_sword": 0.2
             },
             "rarity": {
                 "common": {
@@ -1063,7 +1091,12 @@
         },
         "physical_power": {
             "perk_rate": {
-                "weapon": 0.2
+                "celestial_staff": 0.2,
+                "dagger": 0.2,
+                "bow": 0.2,
+                "ice_staff": 0.2,
+                "fire_staff": 0.2,
+                "great_sword": 0.2
             },
             "rarity": {
                 "common": {
@@ -1090,7 +1123,11 @@
         },
         "max_mana": {
             "perk_rate": {
-                "armor": 0.143
+                "helmet": 0.143,
+                "body": 0.143,
+                "pants": 0.143,
+                "gloves": 0.143,
+                "boots": 0.143
             },
             "rarity": {
                 "common": {
@@ -1117,7 +1154,11 @@
         },
         "max_hp": {
             "perk_rate": {
-                "armor": 0.143
+                "helmet": 0.143,
+                "body": 0.143,
+                "pants": 0.143,
+                "gloves": 0.143,
+                "boots": 0.143
             },
             "rarity": {
                 "common": {
@@ -1144,7 +1185,11 @@
         },
         "hp_regeneration": {
             "perk_rate": {
-                "armor": 0.143
+                "helmet": 0.143,
+                "body": 0.143,
+                "pants": 0.143,
+                "gloves": 0.143,
+                "boots": 0.143
             },
             "rarity": {
                 "common": {
@@ -1171,7 +1216,11 @@
         },
         "climb_speed": {
             "perk_rate": {
-                "armor": 0.143
+                "helmet": 0.143,
+                "body": 0.143,
+                "pants": 0.143,
+                "gloves": 0.143,
+                "boots": 0.143
             },
             "rarity": {
                 "common": {
@@ -1198,7 +1247,11 @@
         },
         "max_block_stamina": {
             "perk_rate": {
-                "armor": 0.143
+                "helmet": 0.143,
+                "body": 0.143,
+                "pants": 0.143,
+                "gloves": 0.143,
+                "boots": 0.143
             },
             "rarity": {
                 "common": {
@@ -1225,7 +1278,11 @@
         },
         "mana_regeneration": {
             "perk_rate": {
-                "armor": 0.143
+                "helmet": 0.143,
+                "body": 0.143,
+                "pants": 0.143,
+                "gloves": 0.143,
+                "boots": 0.143
             },
             "rarity": {
                 "common": {
